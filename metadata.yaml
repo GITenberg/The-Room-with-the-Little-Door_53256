@@ -1,11 +1,16 @@
 _repo: The-Room-with-the-Little-Door_53256
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53256-h/images/cover.jpg
 creator:
   author:
     agent_name: Molineux, Roland Burnham
     gutenberg_agent_id: '47290'
     url: http://www.gutenberg.org/2009/agents/47290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53256#The-Room-with-the-Little-Door
 gutenberg_issued: '2016-10-11'
 gutenberg_type: Text
 identifiers:
